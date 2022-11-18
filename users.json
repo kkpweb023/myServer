@@ -1,0 +1,220 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@gmail.com",
+      "phone": "6424245732",
+      "address": "New York",
+      "status":"Active"
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "email": "Jack@gmail.com",
+      "phone": "6117531716",
+      "address": "Mumbai",
+      "status":"Active"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "email": "John234@gmail.com",
+      "phone": "1516934974",
+      "address": "Delhi",
+      "status":"Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Hansini",
+      "email": "hansini453@facebook.com",
+      "phone": "6361464757",
+      "address": "New York",
+      "status":"Inactive"
+    },
+    {
+      "id": 5,
+      "name": "Hazel",
+      "email": "Hazel344@cbsnews.com",
+      "phone": "3999118614",
+      "address": "Mumbai",
+      "status":"Inactive"
+    },
+    {
+      "id": 6,
+      "name": "Whitaker",
+      "email": "wmonck765@gamil.com",
+      "phone": "2475617412",
+      "address": "Delhi",
+      "status":"Active"
+    },
+    {
+      "id": 7,
+      "name": "Walton",
+      "email": "wtout6@bandcamp.com",
+      "phone": "8921612799",
+      "address": "Paris",
+      "status":"Active"
+    },
+    {
+      "id": 8,
+      "name": "Ryann",
+      "email": "Ryann0987@gamil.com",
+      "phone": "7299214967",
+      "address": "Ufa(Russia)",
+      "status":"Inactive"
+    },
+    {
+      "id": 9,
+      "name": "Hansika",
+      "email": "Hansika897@gmail.com",
+      "phone": "8497154105",
+      "address": "Noida",
+      "status":"Inactive"
+    },
+    {
+      "id": 10,
+      "name": "Jeremiah",
+      "email": "jeremiah987@gmail.com",
+      "phone": "9234784888",
+      "address": "Bhopal",
+      "status":"Inactive"
+    },
+    {
+      "id": 11,
+      "name": "Florri",
+      "email": "Florr7545@gmail.com",
+      "phone": "5871517984",
+      "address": "Mumbai",
+      "status":"Inactive"
+    },
+    {
+      "id": 12,
+      "name": "Eloise",
+      "email": "eloise@gmail.com",
+      "phone": "2098920367",
+      "address": "Chennai",
+      "status":"Inactive"
+    },
+    {
+      "id": 13,
+      "name": "Chloris",
+      "email": "cridingsc@gamil.com",
+      "phone": "6327952352",
+      "address": "Jaipur",
+      "status":"Inactive"
+    },
+    {
+      "id": 14,
+      "name": "Rosette",
+      "email": "rporrittd@gamil.com",
+      "phone": "5786447855",
+      "address": "Landon",
+      "status":"Active"
+    },
+    {
+      "id": 15,
+      "name": "Roi",
+      "email": "rjeunee@gmail.com",
+      "phone": "1361608202",
+      "address": "New York",
+      "status":"Inactive"
+    },
+    {
+      "id": 16,
+      "name": "Johnny",
+      "email": "johnny566@gamil.com",
+      "phone": "7292378342",
+      "address": "Lucknow",
+      "status":"Active"
+    },
+    {
+      "id": 17,
+      "name": "Sharleen",
+      "email": "sgoaleyg@gmail.com",
+      "phone": "6266167264",
+      "address": "Mau",
+      "status":"Active"
+    },
+    {
+      "id": 18,
+      "name": "Tarra",
+      "email": "tarra@gamil.com",
+      "phone": "9832791464",
+      "address": "Jodhapur",
+      "status":"Active"
+    },
+    {
+      "id": 19,
+      "name": "Ibrahim",
+      "email": "ibrahim@gmail.com",
+      "phone": "8966237301",
+      "address": "Jaipur",
+      "status":"Active"
+    },
+    {
+      "id": 20,
+      "name": "Ivar",
+      "email": "ivar434@gmail.com",
+      "phone": "8112265166",
+      "address": "Lucknow",
+      "status":"Inactive"
+    },
+    {
+      "id": 21,
+      "name": "Sonam",
+      "email": "sonam0976@gamil.com",
+      "phone": "6906313436",
+      "address": "Mau",
+      "status":"Inactive"
+    },
+    {
+      "id": 22,
+      "name": "Corey",
+      "email": "Corey@gamil.com",
+      "phone": "4571402276",
+      "address": "Azamgarh",
+      "status":"Active"
+    },
+    {
+      "id": 23,
+      "name": "Shaleeni",
+      "email": "shaleen@gamil.com",
+      "phone": "5081367116",
+      "address": "Varanasi",
+      "status":"Inactive"
+    },
+    {
+      "id": 24,
+      "name": "Nikita",
+      "email": "nikita@gmail.com",
+      "phone": "9953051886",
+      "address": "Jabalpur",
+      "status":"Active"
+    },
+    {
+      "id": 25,
+      "name": "Yuvrajmee",
+      "email": "yuvrajmeeo@gmail.com",
+      "phone": "7465235239",
+      "address": "Amritsar",
+      "status":"Active"
+    },
+    {
+      "id": 26,
+      "name": "Yuvrajpal",
+      "email": "Yuvrajpal@gmail.com",
+      "phone": "1567945806",
+      "address": "Manipur",
+      "status":"Active"
+    },
+    {
+      "id": 27,
+      "name": "Yaseen",
+      "email": "yaseen@gmail.com",
+      "phone": "2257401628",
+      "address": "Mumbai",
+      "status":"Active"
+    }
+  ]
+}
