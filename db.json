@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": "9757",
+      "date": "Thu Jun 09 2011 00:00:00 GMT+0530 (India Standard Time)",
+      "title": "Book",
+      "amount": "2564"
+    },
+    {
+      "id": "9456",
+      "date": "Fri Apr 05 2019 16:59:00 GMT-0700 (Indian Standard Time)",
+      "title": "Mobile",
+      "amount": "0014"
+    },
+    {
+      "id": "1000",
+      "date": "Fri May 29 2020 06:35:59 GMT+0530 (India Standard Time)",
+      "title": "Plate",
+      "amount": "870"
+    },
+    {
+      "id": 863,
+      "title": "House Rent",
+      "amount": "2500",
+      "date": "2022-08-03T00:00:00.000Z"
+    },
+    {
+      "id": 2019,
+      "title": "School Fee",
+      "amount": "3541",
+      "date": "2022-08-04T00:00:00.000Z"
+    },
+    {
+      "id": 8645,
+      "title": "Food",
+      "amount": "2541",
+      "date": "2022-08-05T00:00:00.000Z"
+    },
+    {
+      "id": 1021,
+      "title": "hello",
+      "amount": "546",
+      "date": "2022-08-06T00:00:00.000Z"
+    }
+  ]
+}
