@@ -8,22 +8,24 @@
   ],
   "students": [
     {
+      "id": 1,
       "name": "Kaushal",
       "age": "30",
-      "email": "kpandey023@gmail.com",
-      "id": 1
+      "email": "kpandey023@gmail.com"
     },
     {
+      "id": 2,
       "name": "Rahul",
       "age": "24",
-      "email": "krahul987@gmail.com",
-      "id": 2
+      "email": "krahul987@gmail.com"
+ 
     },
     {
+       "id": 3,
       "name": "Pooja Pathak",
       "age": "28",
-      "email": "pooja238@gmail.com",
-      "id": 3
+      "email": "pooja238@gmail.com"
+      
     }
   ]
 }
