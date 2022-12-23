@@ -5,7 +5,7 @@
 <b><a href="/myServer/users.json">*users</a></b><br/>
 <b><a href="/myServer/students.json">*students</a></b>
 
-<b><a href="https://wild-puce-dove-hose.cyclic.app/list-Product">*Products List</a></b>
+<b><a href="https://wild-puce-dove-hose.cyclic.app/list-Product" target="_blank">*Products List</a></b>
 
 <img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/3735399/screenshots/14477003/dribble_3_4x.gif">
 
